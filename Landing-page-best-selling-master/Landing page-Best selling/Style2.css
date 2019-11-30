@@ -1,0 +1,52 @@
+body{
+	
+	background: url(karl-magnuson-396431-unsplash.jpg);
+}
+
+.x{
+	
+	background-color: white;
+	background-size:cover;
+	
+}
+
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 50%;               
+  background-color:#FFFF00;
+  height: 1px;
+}
+
+.h1{
+	
+	color: white;
+}
+
+.were{
+	width:100%;
+	height: 90%;
+	
+}
+
+label{
+	
+	
+}
+.w{
+	
+	border: 5px solid black;
+	border-radius: 10px;
+	width: 300px;
+}
+
+.were1{
+	background: url(tim-van-der-kuip-1398896-unsplash.jpg);
+	border: 10px dashed blue;
+	
+}
+
+.y{
+	color: white;
+}

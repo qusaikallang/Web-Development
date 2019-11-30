@@ -1,0 +1,73 @@
+body{
+
+	background:url(karl-magnuson-396431-unsplash.jpg);
+	
+}
+
+
+.nav{
+	
+	margin-top: 20px;
+	
+	
+}
+
+#bubble{
+	margin-right: auto;
+	
+	
+}
+
+.style{
+
+	font-weight: 1000;
+	font-style: italic;
+	
+}
+
+.card-header{
+	
+	color:orangered;
+	background-color:lightgreen;
+	
+}
+
+.card-title,.card-text,.jumbotron{
+	color: white;
+}
+
+.card{
+	
+	border-radius: 10px;
+	border: 1px solid white;
+}
+
+
+.img{
+	display: flex;
+	justify-content: center;
+	border: 1px solid white;
+	border-radius: 5px;
+}
+
+
+
+
+
+.card{
+	
+	transition: transform 0.2s ease-in;
+	
+}
+
+.card:focus{
+	color: red;
+}
+
+.card:hover{
+	
+	transform: scale(1.1);
+}
+
+
+

@@ -1,0 +1,47 @@
+body{
+	
+	background: url(karl-magnuson-396431-unsplash.jpg);
+}
+
+.text{
+	
+	border-radius: 10px;
+	
+}
+
+.w1{
+	
+	color: white;
+}
+
+.x{
+
+	margin-top: 5%;
+	
+}
+
+.y{
+
+	color:darkgray;
+ 
+}
+
+.w{
+	
+	color: black;
+	
+}
+
+.q{
+	
+	color: white;
+}
+
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 96%;               
+  background-color:#FFFF00;
+  height: 1px;
+}
